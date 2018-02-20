@@ -1,0 +1,23 @@
+{
+  "name": "node_hotspot",
+  "version": "1.0.0",
+  "description": "mobile hotspot with node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chatpeth/atop-hotspot.git"
+  },
+  "keywords": [
+    "mobile",
+    "hotspot"
+  ],
+  "author": "Chatpeth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chatpeth/atop-hotspot/issues"
+  },
+  "homepage": "https://github.com/chatpeth/atop-hotspot#readme"
+}
