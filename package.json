@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/chatpeth/atop-hotspot/issues"
   },
-  "homepage": "https://github.com/chatpeth/atop-hotspot#readme"
+  "homepage": "https://github.com/chatpeth/atop-hotspot#readme",
+  "dependencies": {
+    "node-hotspot": "^0.1.7"
+  }
 }
